@@ -1,4 +1,4 @@
-# Algorithms
+# Algorítimos
 
 - Quicksort: Ordenamento de listas
 
