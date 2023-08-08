@@ -1,6 +1,8 @@
 # Algorítimos
 
-- Pilha
+- Stack: Pilha
+
+- Queue: Fila
 
 - Quicksort: Ordenamento de listas
 
