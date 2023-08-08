@@ -1,5 +1,7 @@
 # Algorítimos
 
+- Pilha
+
 - Quicksort: Ordenamento de listas
 
 - Binary Search Tree: Busca ótima em árvores binárias
