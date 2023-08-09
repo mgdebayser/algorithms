@@ -1,6 +1,7 @@
 # Algorítimos
 
 - Stack: Pilha
+
 ![Pilha](/img/stack.png)
 
 - Queue: Fila
